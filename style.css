@@ -1,0 +1,18 @@
+body {
+    margin: 0;
+}
+
+#container{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.todo-item button {
+    margin-left: 10px;
+}
+
+.goal-item button {
+    margin-left: 10px;
+}
